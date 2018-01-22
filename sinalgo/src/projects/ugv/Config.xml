@@ -129,7 +129,7 @@
 <!-- 		<map value="images/japan.png" /> -->
 
 		<!--***********************************************************************-->
-		<!--  Models                                                               -->
+		<!--  Models                                                                  -->
 		<!--***********************************************************************-->
 		<!--The message transmission model used when none is specified-->
 		<DefaultMessageTransmissionModel value="ConstantTime" />
