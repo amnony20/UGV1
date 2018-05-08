@@ -127,6 +127,7 @@
 		<!--In 2D, the background can be colored depending on a map file. This field contains the file name for this map, which is supposed to be located in the source folder of the current project. The map is only painted if useMap is set to true.-->
 		<map value="images/white.png" />
 <!-- 		<map value="images/japan.png" /> -->
+<!-- 			<map value="images/SixPack.png" /> -->
 
 		<!--***********************************************************************-->
 		<!--  Models                                                                  -->

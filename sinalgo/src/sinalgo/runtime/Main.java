@@ -46,7 +46,7 @@ import java.lang.reflect.InvocationTargetException;
 
 import javax.swing.JOptionPane;
 
-import sinalgo.Run;
+//import sinalgo.Run;
 import sinalgo.configuration.Configuration;
 import sinalgo.configuration.CorruptConfigurationEntryException;
 import sinalgo.configuration.AppConfig;
@@ -76,7 +76,7 @@ public class Main{
 	 */
 	public static void main(String[] args){		
 		cmdLineArgs = args; // store for later use
-		Run.addJDOMtoClassPath(); // add the jdom library to the classpath, if it's not already there.
+		//Run.addJDOMtoClassPath(); // add the jdom library to the classpath, if it's not already there.
 		Main main = new Main();
 		main.go(args);
 	}
